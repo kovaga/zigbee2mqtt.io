@@ -29,8 +29,10 @@ pageClass: device-page
 Uses a CR2032 battery
 
 ### Pairing
-Press and hold the reset button on the device for +- 5 seconds (until the blue light starts blinking).
-After this the device will automatically join. If this doesn't work, try with a single short button press.
+Press and hold the reset button on the device for +- 5 seconds  (when the blue light blinks, immediately release the button for pairing to start).
+After this, the device will automatically join. If this doesn't work, try with a single short button press.
+
+Here is the video of the process https://www.youtube.com/watch?v=t8xfRCXmjQE
 
 ![WSDCGQ11LM pairing](../images/pairing/WSDCGQ11LM_pairing.jpg)
 
